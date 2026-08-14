@@ -36,4 +36,4 @@ All-in-one **IntelliJ IDEA Suite** coding platform featuring syntax highlighting
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.     
+> This repository is provided for educational and utility purposes only. Use at your own discretion.      
